@@ -23,3 +23,4 @@
 
 
 ## 이외 작업중 이슈 공유
+- [190103_issue](https://github.com/SongYunHye/markup_project/blob/master/190103_study/190103_study.md)
